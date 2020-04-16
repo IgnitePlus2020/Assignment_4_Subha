@@ -1,0 +1,496 @@
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+1
+
+Enter the name of the department to be created:
+Data Science
+
+Department created.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+4
+Department Data Science has no member. Either delete this department or create a member and add to this department in order to display all the departments and its members.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+5
+Enter the name of the member:
+Gautham
+Enter the age of the member:
+28
+Enter the college:vtu
+Enter the skillset:(type 'ok' at last)
+java
+SQL
+DS
+ok
+
+Choose the department of the new member(Enter number):
+1. Data Science
+1
+Member has been added to the department.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+5
+Enter the name of the member:
+Divya
+Enter the age of the member:
+26
+Enter the college:tgt
+Enter the skillset:(type 'ok' at last)
+java
+NOSQL
+ML
+ok
+
+Choose the department of the new member(Enter number):
+1. Data Science
+1
+Member has been added to the department.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+1
+
+Enter the name of the department to be created:
+second
+
+Department created.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+3
+
+Choose the department to be deleted(Enter number):
+1. Data Science
+2. second
+2
+
+Department deleted.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+1
+
+Enter the name of the department to be created:
+Infrastructure
+
+Department created.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+5
+Enter the name of the member:
+Amit
+Enter the age of the member:
+25
+Enter the college:tmt
+Enter the skillset:(type 'ok' at last)
+linux
+PSQL
+scripting
+ok
+
+Choose the department of the new member(Enter number):
+1. Data Science
+2. Infrastructure
+2
+Member has been added to the department.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+5
+Enter the name of the member:
+Naveen
+Enter the age of the member:
+22
+Enter the college:dojo
+Enter the skillset:(type 'ok' at last)
+chef
+react
+AI
+ok
+
+Choose the department of the new member(Enter number):
+1. Data Science
+2. Infrastructure
+2
+Member has been added to the department.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+2
+Departments
+-----------------------------
+Data Science
+Infrastructure
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+4
+Department Name: Data Science
+-----------------------------------
+name='Gautham', college='vtu', age=28, skillSet='[java, SQL, DS]'
+name='Divya', college='tgt', age=26, skillSet='[java, NOSQL, ML]'
+***********************************
+Department Name: Infrastructure
+-----------------------------------
+name='Amit', college='tmt', age=25, skillSet='[scripting, linux, PSQL]'
+name='Naveen', college='dojo', age=22, skillSet='[chef, AI, react]'
+***********************************
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+6
+
+Departments :
+1. Data Science
+2. Infrastructure
+
+Choose the current department of the member(Enter number):
+1
+
+Choose the new department of the member(Enter number):
+2
+
+Enter the name of the member:
+Gautham
+Data updated.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+4
+Department Name: Data Science
+-----------------------------------
+name='Divya', college='tgt', age=26, skillSet='[java, NOSQL, ML]'
+***********************************
+Department Name: Infrastructure
+-----------------------------------
+name='Amit', college='tmt', age=25, skillSet='[scripting, linux, PSQL]'
+name='Naveen', college='dojo', age=22, skillSet='[chef, AI, react]'
+name='Gautham', college='vtu', age=28, skillSet='[java, SQL, DS]'
+***********************************
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+8
+Department-Data Science	Member-Divya
+Department-Infrastructure	Member-Gautham
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+7
+
+Choose the department to update the skill set of its members:
+1. Data Science
+2. Infrastructure
+1
+Enter the new skillset of Divya:
+python
+Skill set updated.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+4
+Department Name: Data Science
+-----------------------------------
+name='Divya', college='tgt', age=26, skillSet='[python, java, NOSQL, ML]'
+***********************************
+Department Name: Infrastructure
+-----------------------------------
+name='Amit', college='tmt', age=25, skillSet='[scripting, linux, PSQL]'
+name='Naveen', college='dojo', age=22, skillSet='[chef, AI, react]'
+name='Gautham', college='vtu', age=28, skillSet='[java, SQL, DS]'
+***********************************
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+5
+Enter the name of the member:
+Divya
+Enter the age of the member:
+30
+Enter the college:rrs
+Enter the skillset:(type 'ok' at last)
+c
+python
+ok
+
+Choose the department of the new member(Enter number):
+1. Data Science
+2. Infrastructure
+1
+Divya already exists in department Data Science
+Hence,this record cannot be added.
+
+Return to main menu?(y/n)
+y
+
+
+Main menu
+
+1.Create a department
+2.To display all the departments
+3.Delete a department
+4.Display all the members as per department
+5.Create a member and add the member to a department
+6.Swapping of Ignite Members from one dept to another dept
+7.Add a new Skillset to all the Ignite members for the specific dept
+8.List all the users who have the Skill of “Java” with department name
+9.Exit
+
+Enter your option:
+9
